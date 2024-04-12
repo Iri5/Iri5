@@ -1,5 +1,4 @@
-### Hi there, I'm Irina 👋
-<h1>Hi there, I'm Irina 👋</h1>
+<h1 align='center'>Hi there, I'm <span background-color=green color='pink'>Irina</span> 👋</h1>
 <!--
 **Iri5/Iri5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
