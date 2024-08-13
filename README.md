@@ -3,7 +3,7 @@
 
 <p>
   <h1 align='center'>𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝙸𝚛𝚒𝚗𝚊 👋</h1>
-  <h2 align='center'><em>𝒞𝑜𝓂𝓅𝓊𝓉𝑒𝓇 𝓈𝒸𝒾𝑒𝓃𝒸𝑒 𝓈𝓉𝓊𝒹𝑒𝓃𝓉, 𝒻𝓇𝑜𝓃𝓉𝑒𝓃𝒹 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇</em></h2>
+  <h2 align='center'><em>𝓒𝓸𝓶𝓹𝓾𝓽𝓮𝓻 𝓼𝓬𝓲𝓮𝓷𝓬𝓮 𝓫𝓪𝓬𝓱𝓮𝓵𝓸𝓻, 𝓯𝓻𝓸𝓷𝓽𝓮𝓷𝓭 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻</em></h2>
   <h3 align='center'>A little bit about me</h3>
   <ul>
     <li>I am finishing my higher education in the direction of 09.03.01 "Computer science and Computer engineering" at the St. Petersburg Institute of Technology (Technical University)</li>
